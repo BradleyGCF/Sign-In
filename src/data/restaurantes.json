@@ -1,0 +1,33 @@
+
+[
+  {
+   "id":"1",
+   "img": "https://www.travelon.world/es/images/jch-optimize/ng/images_blogs_6-lanzarote-restaurants-for-a-gastronomic-adventure__4.webp",
+   "name": "Habana 6"
+  },
+  {
+   "id":"2",
+   "img": "https://www.travelon.world/es/images/jch-optimize/ng/images_blogs_6-lanzarote-restaurants-for-a-gastronomic-adventure__1.webp",
+   "name": "The Firemountain Restaurant: El Diablo"
+  },
+  {
+  "id":"3",
+  "img": "https://www.travelon.world/es/images/jch-optimize/ng/images_blogs_6-lanzarote-restaurants-for-a-gastronomic-adventure__2.webp", 
+  "name": "Coentro"
+  },
+  {
+    "id":"4",
+    "img": "https://www.travelon.world/es/images/jch-optimize/ng/images_blogs_6-lanzarote-restaurants-for-a-gastronomic-adventure__3.webp", 
+    "name": "La Carmencita del Puerto"
+  },
+  {
+    "id":"5",
+    "img": "https://www.travelon.world/es/images/jch-optimize/ng/images_blogs_6-lanzarote-restaurants-for-a-gastronomic-adventure__5.webp", 
+    "name": "Restaurante Mirador El Roque"
+  },
+  {
+    "id":"6",
+    "img": "https://www.travelon.world/es/images/jch-optimize/ng/images_blogs_6-lanzarote-restaurants-for-a-gastronomic-adventure__6.webp", 
+    "name": "Jameos Del Agua Cafe"
+  }
+]

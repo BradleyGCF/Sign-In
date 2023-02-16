@@ -1,0 +1,20 @@
+[
+  {
+   "id":"1",
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRg3GgPSlGZDHZ7jypVoEIf9fllHY-QXyJjAjNtzS7-PNW-cJDt",
+   "name": "Massimo Bottura",
+   "description": "Este Chef de origen italiano gano el tutilo al mejor restaurante del    mundo en 2018 gracias a la calidad de su de su establecimiento llamado Osteria  Francescana"
+  },
+  {
+   "id":"2",
+   "img": "https://img.chilango.com/2019/04/image-5.png",
+   "name": "Daniela Soto-Innes",
+   "description": "Esta galardonada Chef de 28 años de edad, es la más joven en llevarse    este galardón en las 4 ediciones que se ha llevado a cabo."
+  },
+  {
+  "id":"3",
+  "img": "https://www.portafolio.co/files/article_multimedia/files/crop/uploads/2022/02/06/61ffd1f62e02b.r_1644156216538.24-0-653-475.jpeg", 
+  "name": "Juan Camilo Quintero",
+  "drescription": "Este joven chef colombiano, lidera la cocina de Il Poggio Rosso,   restaurante italiano que ha ganado una estrella Michelin."
+  }
+]
