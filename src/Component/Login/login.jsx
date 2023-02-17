@@ -21,7 +21,7 @@ export default function LoginForm() {
     password: "",
   });
 
-  const { login } = useAuth();
+  const { login, loginWithGoogle } = useAuth();
   const navigate = useNavigate();
 
   const handleChange = ({ target: { name, value } }) =>
@@ -49,7 +49,10 @@ export default function LoginForm() {
     },
   });
 
-  const handleGoogleSignin = () => {};
+  const handleGoogleSignin = async () => {
+    await loginWithGoogle();
+    navigate("/home");
+  };
 
   return (
     <div>
